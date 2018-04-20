@@ -8,3 +8,13 @@
 /Users/jdystebakken/Desktop/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.AssemblyInfo.cs
 /Users/jdystebakken/Desktop/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.dll
 /Users/jdystebakken/Desktop/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.pdb
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/bin/Debug/netcoreapp2.0/EatInOsloMVC.deps.json
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/bin/Debug/netcoreapp2.0/EatInOsloMVC.runtimeconfig.json
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/bin/Debug/netcoreapp2.0/EatInOsloMVC.runtimeconfig.dev.json
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/bin/Debug/netcoreapp2.0/EatInOsloMVC.dll
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/bin/Debug/netcoreapp2.0/EatInOsloMVC.pdb
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.csproj.CoreCompileInputs.cache
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.AssemblyInfoInputs.cache
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.AssemblyInfo.cs
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.dll
+/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/Debug/netcoreapp2.0/EatInOsloMVC.pdb

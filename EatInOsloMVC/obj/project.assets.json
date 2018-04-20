@@ -13124,11 +13124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jdystebakken/Desktop/EatInOsloMVC/EatInOsloMVC.csproj",
+      "projectUniqueName": "/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/EatInOsloMVC.csproj",
       "projectName": "EatInOsloMVC",
-      "projectPath": "/Users/jdystebakken/Desktop/EatInOsloMVC/EatInOsloMVC.csproj",
+      "projectPath": "/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/EatInOsloMVC.csproj",
       "packagesPath": "/Users/jdystebakken/.nuget/packages/",
-      "outputPath": "/Users/jdystebakken/Desktop/EatInOsloMVC/obj/",
+      "outputPath": "/Users/jdystebakken/Documents/GitHub/EatInOslo/EatInOsloMVC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
