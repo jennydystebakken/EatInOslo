@@ -36,7 +36,7 @@ namespace EatInOsloMVC
                     );
                     routes.MapRoute(
                         name: "admin",
-                        template: "{controller=Admin}/{action=}"
+                        template: "{controller=Admin}/{action=Welcome}"
                     );
                 }
             );
